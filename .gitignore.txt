@@ -1,31 +1,31 @@
-# Jupyter notebook checkpoints
+# Ignore Jupyter notebook checkpoints (auto-saved backups)
 .ipynb_checkpoints/
 
-# Environnements virtuels
+# Ignore virtual environment folders
 venv/
 env/
 
-# Fichiers temporaires Python
+# Ignore Python temporary files
 __pycache__/
 *.py[cod]
 *.pyo
 
-# Fichiers système
+# Ignore system files (macOS and Windows)
 .DS_Store
 Thumbs.db
 
-# Dossiers cachés d’OS
+# Ignore IDE-specific folders (PyCharm, VSCode)
 .idea/
 .vscode/
 
-# Données personnelles ou volumineuses
+# Ignore personal or large local databases/logs
 *.sqlite
 *.db
 *.log
 
-# Fichiers Excel ou Sheets modifiés à la main
+# Ignore manually edited Excel or OpenDocument files
 *.xlsx
 *.ods
 
-# fichiers spécifiques à Google Colab
-*.ipynb~  
+# Ignore Google Colab temporary files
+*.ipynb~
