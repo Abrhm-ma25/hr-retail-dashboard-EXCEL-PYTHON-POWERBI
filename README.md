@@ -27,7 +27,6 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 - **Description**: Synthetic dataset with employee absence hours, work department, age, education, and more.
 
 ---
----
 
 ## ⚠️ Limits during data processing
 
@@ -63,7 +62,7 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 ## 📌 Notable Findings
 
 ### 🏙️ Employee Mobility Across Stores
-<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Mobility%20Insight.png" width="500"/>
+<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Mobility%20Insight.png" width="600"/>
 
 - 2020: 28% (2364/3282) lived outside city  
 - 2025: 29% (5901/8304) — stable despite workforce growth  
@@ -95,7 +94,7 @@ Insights:
 ---
 
 ### 📈 Workforce Evolution (2020–2025)
-<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Trends%20in%20Workforce%20Evolution.png" width="500"/>
+<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Trends%20in%20Workforce%20Evolution.png" width="600"/>
 
 - 2020–2022: +115% growth  
 - 2023–2025: Slowing → mature phase?
@@ -103,7 +102,7 @@ Insights:
 ---
 
 ### ⏳ Tenure & Loyalty
-<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Employees%20by%20age%20group%20and%20years%20of%20service.png" width="500"/>
+<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Employees%20by%20age%20group%20and%20years%20of%20service.png" width="600"/>
 
 - 50%+ employees have 2+ years of service  
 - Strong mid-career retention (35–54 yrs)  
@@ -123,4 +122,4 @@ Insights:
 
 ## 📂 Repository Structure
 
-<img src= "https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Project%20Structutre.png" width="500"/>
+<img src= "https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Project%20Structutre.png" width="600"/>
