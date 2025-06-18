@@ -74,7 +74,7 @@ Implications:
 ---
 
 ### 🧭 Absenteeism patterns & Gender Analysis
-<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Absenteeism1.png" width="300"/> <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/AbsenteeismM.png" width="280"/> <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/AbsenteeismF.png" width="310"/>
+<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Absenteeism1.png" width="300"/> <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/AbsenteeismM.png" width="294"/> <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/AbsenteeismF.png" width="300"/>
 
 <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Gender%20distribution%20by%20department.png" width="300"/>
 
@@ -122,4 +122,4 @@ Insights:
 
 ## 📂 Repository Structure
 
-<img src= "https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Project%20Structutre.png" width="600"/>
+<img src= "https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Project%20Structutre.png" width="300"/>
