@@ -11,11 +11,17 @@ In a multi-site retail organization, efficiently managing human capital is criti
 This dashboard supports **strategic HR decision-making** by providing insights on:
 
 **- Real-time workforce performance monitoring**
+
 **- Workforce distribution across stores**
+
 **- Employee mobility between store locations**
+
 **- Absenteeism patterns and analysis**
+
 **- Gender equality insights**
+
 **- Workforce evolution trends**
+
 **- Employee loyalty and tenure by age group and years of service**
 
 ---
