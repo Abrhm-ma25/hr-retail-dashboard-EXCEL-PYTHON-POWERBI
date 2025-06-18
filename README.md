@@ -10,13 +10,13 @@ In a multi-site retail organization, efficiently managing human capital is criti
 
 This dashboard supports **strategic HR decision-making** by providing insights on:
 
-- Real-time workforce performance monitoring  
-- Workforce distribution across stores  
-- Employee mobility between store locations  
-- Absenteeism patterns and analysis  
-- Gender equality insights  
-- Workforce evolution trends  
-- Employee loyalty and tenure by age group and years of service  
+**- Real-time workforce performance monitoring**
+**- Workforce distribution across stores**
+**- Employee mobility between store locations**
+**- Absenteeism patterns and analysis**
+**- Gender equality insights**
+**- Workforce evolution trends**
+**- Employee loyalty and tenure by age group and years of service**
 
 ---
 
@@ -113,11 +113,19 @@ Insights:
 ## ✅ Recommendations
 
 - Flexible work programs (e.g., parental leave)
-- Analyze absentee causes more deeply
+Support work-life balance and don't just focus on reducing absenteeism.
+
 - Improve gender equity in technical roles
-- Focus on **retention**, not just growth
+Address gender gaps in departments like IT and Legal through targeted hiring and promotion policies.
+
+- Focus on retention, not just growth
+With workforce growth slowing, invest in engagement and long-term career development.
+
 - Engage young cohorts (training/career paths)
+Provide clear progression paths to retain younger employees and nurture future talent.
+
 - Plan succession for aging workforce
+Anticipate retirements by building internal leadership pipelines and knowledge transfer plans.
 
 
 ## 📂 Repository Structure
