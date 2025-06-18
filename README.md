@@ -23,11 +23,22 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 ## 📊 Dataset Used
 
 - **Title**: Absenteeism Dataset  
-- **Source**: HR Analytic Repository via Kaggle  
+- **Source**: [HR Analytic Repository via Kaggle](https://www.kaggle.com/datasets/HRAnalyticRepository/absenteeism-dataset)
 - **Description**: Synthetic dataset with employee absence hours, work department, age, education, and more.
 
 ---
+---
 
+## ⚠️ Limits during data processing
+
+- No date/timestamp  
+- No salary/overtime data  
+- No hiring/termination history  
+- Limited geo data (City, Store only)  
+- No diversity markers (ethnicity, etc.)  
+- No long-term career tracking  
+
+---
 ## 🛠️ Tools & Technologies
 
 **Python**
@@ -52,7 +63,7 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 ## 📌 Notable Findings
 
 ### 🏙️ Employee Mobility Across Stores
-<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Mobility%20Insight.png" width="300"/>
+<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Mobility%20Insight.png" width="500"/>
 
 - 2020: 28% (2364/3282) lived outside city  
 - 2025: 29% (5901/8304) — stable despite workforce growth  
@@ -84,7 +95,7 @@ Insights:
 ---
 
 ### 📈 Workforce Evolution (2020–2025)
-<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Trends%20in%20Workforce%20Evolution.png" width="300"/>
+<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Trends%20in%20Workforce%20Evolution.png" width="500"/>
 
 - 2020–2022: +115% growth  
 - 2023–2025: Slowing → mature phase?
@@ -92,7 +103,7 @@ Insights:
 ---
 
 ### ⏳ Tenure & Loyalty
-<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Employees%20by%20age%20group%20and%20years%20of%20service.png" width="300"/>
+<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Employees%20by%20age%20group%20and%20years%20of%20service.png" width="500"/>
 
 - 50%+ employees have 2+ years of service  
 - Strong mid-career retention (35–54 yrs)  
@@ -109,19 +120,7 @@ Insights:
 - Engage young cohorts (training/career paths)
 - Plan succession for aging workforce
 
----
-
-## ⚠️ Limitations in data treatment
-
-- No date/timestamp  
-- No salary/overtime data  
-- No hiring/termination history  
-- Limited geo data (City, Store only)  
-- No diversity markers (ethnicity, etc.)  
-- No long-term career tracking  
-
----
 
 ## 📂 Repository Structure
 
-<img src= "https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Project%20Structutre.png" width="300"/>
+<img src= "https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Project%20Structutre.png" width="500"/>
