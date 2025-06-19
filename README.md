@@ -1,6 +1,8 @@
-# HR Retail Dashboard
+# Interactive HR Retail Dashboard
 
-<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Dashboad%20view.png" width="900"/>
+<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Dashboard%20view.png" width="900"/>
+
+###### 📥 Download the interactive dashboard [hr-retail-dashboard](https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/hr-retail-dashboard.pbix?raw=true)
 
 ---
 
@@ -10,7 +12,6 @@ In a multi-site retail organization, efficiently managing human capital is criti
 
 This dashboard supports **strategic HR decision-making** by providing insights on:
 
-**- Real-time workforce performance monitoring**
 
 **- Workforce distribution across stores**
 
@@ -22,19 +23,19 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 
 **- Workforce evolution trends**
 
-**- Employee loyalty and tenure by age group and years of service**
+**- Employee loyalty and tenure / years of service by age group**
 
 ---
 
-## 📊 Dataset Used
+## 📊 Dataset used
 
 - **Title**: Absenteeism Dataset  
 - **Source**: [HR Analytic Repository via Kaggle](https://www.kaggle.com/datasets/HRAnalyticRepository/absenteeism-dataset)
-- **Description**: Synthetic dataset with employee absence hours, work department, age, education, and more.
+- **Description**: Fictitious synthetic dataset with employee absence hours, work department, age, education, and more.
 
 ---
 
-## ⚠️ Limits during data processing
+## ⚠️ Dataset limitations
 
 - No date/timestamp  
 - No salary/overtime data  
@@ -44,7 +45,7 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 - No long-term career tracking  
 
 ---
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies used
 
 **Python**
 - Data cleaning, normalization, feature prep
@@ -70,39 +71,44 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 ### 🏙️ Employee Mobility Across Stores
 <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Mobility%20Insight.png" width="600"/>
 
-- 2020: 28% (2364/3282) lived outside city  
-- 2025: 29% (5901/8304) — stable despite workforce growth  
+- 2020: 28% (918/3282) lived outside city
+- 2025: 29% (2403/8304) stable despite workforce growth
 
-Implications:
+**Insights:**
 - Suburban expansion
-- Transport/hybrid policy optimization
+- Transport policy optimization
 
 ---
 
 ### 🧭 Absenteeism patterns & Gender Analysis
 <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Absenteeism1.png" width="300"/> <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/AbsenteeismM.png" width="294"/> <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/AbsenteeismF.png" width="300"/>
 
-<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Gender%20distribution%20by%20department.png" width="300"/>
-
-- **Balanced gender**: 50.63% M / 49.37% F  
+- **Balanced gender**: 50.63% M / 49.37% F
 - **Absenteeism**:
+  - Overall: 0.71%
   - Female: 0.77%
   - Male: 0.65%
 
-Insights:
-- Family responsibilities/workload disparity?
-- Gender gaps in:
+**Insights:**
+- Overall weak work-life balance
+- Higher family responsibilities for female employees?
+- workload disparity?
+  
+<img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Gender%20distribution%20by%20department.png" width="300"/>
+
+**Insights:**
+- Leadership slightly male-biased, gender gaps in:
   - IT: 9M vs 1F  
   - Legal: 2M vs 1F  
-  - Investment: 6M vs 3F  
-  - Leadership slightly male-biased
+  - Investment: 6M vs 3F 
+
 
 ---
 
 ### 📈 Workforce Evolution (2020–2025)
 <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Trends%20in%20Workforce%20Evolution.png" width="600"/>
 
-- 2020–2022: +115% growth  
+- 2020–2022: 3282 employees-7070 employees +115% growth  
 - 2023–2025: Slowing → mature phase?
 
 ---
@@ -118,22 +124,17 @@ Insights:
 
 ## ✅ Recommendations
 
-- Flexible work programs (e.g., parental leave)
-Support work-life balance and don't just focus on reducing absenteeism.
+- Flexible work programs (e.g., parental leave), support work-life balance and don't just focus on reducing absenteeism.
 
-- Improve gender equity in technical roles
-Address gender gaps in departments like IT and Legal through targeted hiring and promotion policies.
+- Improve gender equity in technical roles, address gender gaps in departments like IT and Legal through targeted hiring and promotion policies.
 
-- Focus on retention, not just growth
-With workforce growth slowing, invest in engagement and long-term career development.
+- Focus on retention, with workforce growth slowing, invest in engagement and long-term career development.
 
-- Engage young cohorts (training/career paths)
-Provide clear progression paths to retain younger employees and nurture future talent.
+- Engage young cohorts (training/career paths), provide clear progression paths to retain younger employees and nurture future talent.
 
-- Plan succession for aging workforce
-Anticipate retirements by building internal leadership pipelines and knowledge transfer plans.
+- Plan succession for aging workforce, anticipate retirements by building internal leadership pipelines and knowledge transfer plans.
 
 
 ## 📂 Repository Structure
 
-<img src= "https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Project%20Structutre.png" width="300"/>
+<img src= "https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Project%20Structure.png" width="300"/>
