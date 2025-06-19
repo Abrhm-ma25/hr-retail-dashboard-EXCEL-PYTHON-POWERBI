@@ -60,7 +60,7 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 
 **Power BI**
 - Interactive dashboards with:
-  - Filters by store/geo
+  - Filter by store location
   - Workforce KPIs
   - Absence, gender, mobility visuals
 
@@ -124,9 +124,9 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 
 ## ✅ Recommendations
 
-- Flexible work programs (e.g., parental leave), support work-life balance instead of solely targeting absenteeism reduction just focus on reducing absenteeism.
+- Flexible work programs (e.g., parental leave), support work-life balance instead of solely targeting absenteeism reduction.
 
-- Improve gender equity in technical roles, address gender gaps in departments like IT and Legal through targeted hiring and promotion policies.
+- Improve gender equality in technical roles, address gender gaps in departments like IT and Legal through targeted hiring and promotion policies.
 
 - Focus on retention, with workforce growth slowing, invest in engagement and long-term career development.
 
