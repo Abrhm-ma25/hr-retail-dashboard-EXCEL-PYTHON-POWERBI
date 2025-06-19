@@ -8,7 +8,7 @@
 
 ## 🎯 Business Context
 
-In a multi-site retail organization, efficiently managing human capital is critical. Factors such as frequent absenteeism, overtime, unequal gender distribution, and high turnover can significantly affect performance, customer satisfaction, and profitability.
+In a multi-site retail organization, efficiently managing human capital is critical. Factors such as frequent absenteeism,  overtime, gender imbalance, and high turnover can negatively impact performance, customer satisfaction, and profitability.
 
 This dashboard supports **strategic HR decision-making** by providing insights on:
 
@@ -40,8 +40,8 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 - No date/timestamp  
 - No salary/overtime data  
 - No hiring/termination history  
-- Limited geo data (City, Store only)  
-- No diversity markers (ethnicity, etc.)  
+- Limited geographic data (only city and store location)  
+- No diversity markers (ethnicity, etc.)
 - No long-term career tracking  
 
 ---
@@ -90,9 +90,9 @@ This dashboard supports **strategic HR decision-making** by providing insights o
   - Male: 0.65%
 
 **Insights:**
-- Overall weak work-life balance
+- Overall poor work-life balance
 - Higher family responsibilities for female employees?
-- workload disparity?
+- Potential workload disparity?
   
 <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Gender%20distribution%20by%20department.png" width="300"/>
 
@@ -108,7 +108,7 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 ### 📈 Workforce Evolution (2020–2025)
 <img src="https://github.com/Abrhm-ma25/hr-retail-dashboard-EXCEL-PYTHON-POWERBI/blob/main/Images/Trends%20in%20Workforce%20Evolution.png" width="600"/>
 
-- 2020–2022: 3282 employees-7070 employees +115% growth  
+- 2020–2022: Workforce grew from 3,282 to 7,070 employees (+115%)  
 - 2023–2025: Slowing → mature phase?
 
 ---
@@ -124,7 +124,7 @@ This dashboard supports **strategic HR decision-making** by providing insights o
 
 ## ✅ Recommendations
 
-- Flexible work programs (e.g., parental leave), support work-life balance and don't just focus on reducing absenteeism.
+- Flexible work programs (e.g., parental leave), support work-life balance instead of solely targeting absenteeism reduction just focus on reducing absenteeism.
 
 - Improve gender equity in technical roles, address gender gaps in departments like IT and Legal through targeted hiring and promotion policies.
 
